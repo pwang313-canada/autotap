@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoTap</string>
+    <string name="accessibility_service_description">Watches YouTube for your keywords and taps them automatically.</string>
+    <string name="permission_on">Accessibility permission: ON</string>
+    <string name="permission_off">Accessibility permission: OFF — tap below to enable it</string>
+    <string name="open_accessibility_settings">Open accessibility settings</string>
+    <string name="monitoring">Monitoring</string>
+    <string name="debug_mode">Debug mode (log screen text)</string>
+    <string name="debug_hint">When on, every visible text on screen is written to logcat (tag AutoTap) so you can find the exact keyword to match.</string>
+    <string name="rules_active">%1$d rule(s) active</string>
+    <string name="manage_rules">Manage tap rules</string>
+    <string name="add_rule">Add rule</string>
+    <string name="keyword_label">Keyword to tap</string>
+    <string name="keyword_hint">e.g. Skip Ad</string>
+    <string name="keyword_required">Keyword is required</string>
+    <string name="match_mode">Match mode</string>
+    <string name="mode_contains">Contains</string>
+    <string name="mode_exact">Exact</string>
+    <string name="package_label">Target app package</string>
+    <string name="cooldown_label">Cooldown between taps (seconds)</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+</resources>
